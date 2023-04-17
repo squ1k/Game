@@ -35,6 +35,5 @@
  - Скорость регенерации
  - Скорость передвижения
 ## Референсы
-- Hollow Knight
-- Rogue Legacy
-
+- Hollow Knight (Визуал и атмосфера)
+- Rogue Legacy (Геймплей)
